@@ -81,7 +81,7 @@
 | **NME-高能观测量相关性** | $r(M^{0\nu}, \text{cov}(v_2^2, [p_T])) = 0.89$ | QGP梯度各向异性可标定NME |
 | **实验可行性**           | LHC超中心碰撞测量精度达1%（ALICE 3升级后）     | 需几小时数据采集         |
 
-![QGP形成示意图](C:\Users\LiniKeair\AppData\Roaming\Typora\typora-user-images\image-20250831171826048.png) 
+![QGP形成示意图](Figure1.png) 
 *Fig 1. （左：0νββ衰变；右：$^{150}\text{Nd}$碰撞 )*
 
 
@@ -93,7 +93,7 @@
 
 - [ ] 推导Eq.4：$\beta_2 = \frac{4\pi}{3ZR_0^2}\sqrt{B(E2)}$的形变-跃迁关联
 
-![Figure3 a to b](C:\Users\LiniKeair\AppData\Roaming\Typora\typora-user-images\image-20250901111018395.png)
+![Figure3 a to b](Figure3 a to b.png)
 
 *Fig 3 (a to b).  NME 通过Eq 4得到 $\beta_2$ 并计算相关性*
 
@@ -117,4 +117,5 @@
 > {% endfor %}
 
 > ```
+
 
