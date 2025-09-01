@@ -93,7 +93,7 @@
 
 - [ ] 推导Eq.4：$\beta_2 = \frac{4\pi}{3ZR_0^2}\sqrt{B(E2)}$的形变-跃迁关联
 
-![Figure3 a to b](Figure3 a to b.png)
+![Figure3 a to b](Figure3.png)
 
 *Fig 3 (a to b).  NME 通过Eq 4得到 $\beta_2$ 并计算相关性*
 
@@ -115,8 +115,8 @@
 > {% for tag in site.tags %}  
 > <a href="/tags/{{ tag[0] }}/" class="tag-{{ tag[1] | size }}">{{ tag[0] }}</a>  
 > {% endfor %}
-
 > ```
+
 
 
 
